@@ -8,3 +8,5 @@ Manejo de Python (Librerías: NumPy, Pandas, Geopandas, Matplotlib, Seaborn), Po
 ### Datos de Contacto
 Correo electrónico: gklocker73@gmail.com
 LinkedIn: https://www.linkedin.com/in/gast%C3%B3n-klocker-918923102/
+
+País: Argentina
